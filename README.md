@@ -3,7 +3,7 @@
 
 ![Jorge Lucas Most Used langagues](https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=jorgelucascm&layout=compact&show_icons=true&title_color=31cc99&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
-## Language and Tools:
+### Language and Tools:
 <h3></h3>
 <a href="https://www.learn-c.org/"> <img src="https://images-na.ssl-images-amazon.com/images/I/51NyeIYt71L.png" width = "40"/></a>&nbsp; 
 <a href="https://www.java.com/pt-BR/"> <img src="https://cdn.iconscout.com/icon/free/png-512/java-43-569305.png" width = "40"/> </a>&nbsp;
@@ -17,7 +17,7 @@
 
 <br>
 
-## Social Media:
+### Social Media:
 <a href="https://mail.google.com/mail/u/0/?fs=1&to=jorgelcm.ec@gmail.com&tf=cm"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width = "20"/></a> &nbsp;
 <a href="https://www.instagram.com/jorge_lucascm/"> <img src="https://image.flaticon.com/icons/png/512/174/174855.png" width = "20"/> </a>
 
