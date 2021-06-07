@@ -3,7 +3,7 @@
 
 ![Jorge Lucas Most Used langagues](https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=jorgelucascm&layout=compact&show_icons=true&title_color=31cc99&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
-### Language and Tools:
+### Language and Tools <img src="https://i.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.webp" width="18px"> :
 <h3></h3>
 <a href="https://www.learn-c.org/"> <img src="https://images-na.ssl-images-amazon.com/images/I/51NyeIYt71L.png" width = "40"/></a>&nbsp; 
 <a href="https://www.java.com/pt-BR/"> <img src="https://cdn.iconscout.com/icon/free/png-512/java-43-569305.png" width = "40"/> </a>&nbsp;
