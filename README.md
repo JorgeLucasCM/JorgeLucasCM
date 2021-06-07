@@ -17,7 +17,7 @@
 
 <br>
 
-### Social Media:
+## Social Media:
 <a href="https://mail.google.com/mail/u/0/?fs=1&to=jorgelcm.ec@gmail.com&tf=cm"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width = "20"/></a> &nbsp;
 <a href="https://www.instagram.com/jorge_lucascm/"> <img src="https://image.flaticon.com/icons/png/512/174/174855.png" width = "20"/> </a>
 
