@@ -13,7 +13,9 @@
 <a href="https://nodejs.org/en/"> <img src="https://cdn.iconscout.com/icon/free/png-512/node-js-1-1174935.png" width = "40"/> </a>&nbsp;
 <a href="https://www.learn-html.org/"> <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png" width = "40"/> </a>&nbsp;
 <a href="https://www.postgresql.org/"> <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/postgresql_logo_icon_170835.png" width = "40"/></a>&nbsp;
+<a href="https://www.javascript.com/"> <img src="https://cdn.iconscout.com/icon/free/png-512/javascript-2752148-2284965.png" width = "38"/></a>&nbsp;
 <a href="https://www.markdownguide.org/"> <img src="https://d33wubrfki0l68.cloudfront.net/f1f475a6fda1c2c4be4cac04033db5c3293032b4/513a4/assets/images/markdown-mark-white.svg" width = "50"/> </a>&nbsp;
+
 
 <br>
 
