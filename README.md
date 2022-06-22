@@ -1,4 +1,4 @@
-# Hi there, I'm Jorge Lucas <img src="https://media2.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif?cid=ecf05e470m2rgub4qpcyv2gb31v8e8xednbi36kh4bv1zwrj&rid=giphy.gif&ct=s" width="15px">
+# Hi there, I'm Jorge Lucas 👋
 ![Jorge Lucas GitHub's Status](https://github-readme-stats.vercel.app/api?username=jorgelucascm&show_icons=true&title_color=31cc99&icon_color=31cc99&text_color=bfbfbf&bg_color=151515)
 
 ![Jorge Lucas Most Used langagues](https://github-readme-stats.vercel.app/api/top-langs/?username=jorgelucascm&layout=compact&show_icons=true&title_color=31cc99&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&langs_count=10)
