@@ -1,5 +1,4 @@
 # Hi there, I'm Jorge Lucas 👋
-![Jorge Lucas GitHub's Status](https://github-readme-stats.vercel.app/api?username=jorgelucascm&show_icons=true&title_color=31cc99&icon_color=31cc99&text_color=bfbfbf&bg_color=151515)
 
 ![Jorge Lucas Most Used langagues](https://github-readme-stats.vercel.app/api/top-langs/?username=jorgelucascm&layout=compact&show_icons=true&title_color=31cc99&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&langs_count=10)
 
