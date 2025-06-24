@@ -17,7 +17,7 @@
 <a href="https://dev.mysql.com/doc/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width = "40"/> </a>&nbsp;
 <a href="https://nodejs.org/en/"> <img src="https://cdn.iconscout.com/icon/free/png-512/node-js-1-1174935.png" width = "40"/> </a>&nbsp;
 <a href="https://www.postgresql.org/"> <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/postgresql_logo_icon_170835.png" width = "40"/></a>&nbsp;
-<a href="https://www.postman.com/learn/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.sv" width = "40"/></a>&nbsp;
+<a href="https://www.postman.com/learn/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width = "40"/></a>&nbsp;
 <a href="https://www.python.org/"> <img src="https://cdn.icon-icons.com/icons2/1508/PNG/512/python_104451.png" width = "40"/> </a>&nbsp;
 <a href="https://code.visualstudio.com/docs"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width = "40"/> </a>&nbsp;
 
